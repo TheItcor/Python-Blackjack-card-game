@@ -1,6 +1,10 @@
 import time
 #from game_logics import cards_nominal
 
+
+## It's need ASCII graphics!
+## But now this file almost useless...
+
 card = """
  _______
 |       |
